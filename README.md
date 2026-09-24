@@ -1,5 +1,6 @@
 # EcoSync OS • Smart City & Campus Command Center
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Demo-black?style=flat-square&logo=vercel)](https://dist-seven-orcin-57.vercel.app)
 [![React](https://img.shields.io/badge/React-19.2-61dafb?style=flat-square&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.x-646cff?style=flat-square&logo=vite)](https://vitejs.dev/)
@@ -7,6 +8,8 @@
 [![Runtime Port](https://img.shields.io/badge/Port-5008-10b981?style=flat-square&logo=serverless)](http://localhost:5008)
 [![License](https://img.shields.io/badge/License-MIT-amber?style=flat-square)](LICENSE)
 
+> 🚀 **Live Demo:** [https://dist-seven-orcin-57.vercel.app](https://dist-seven-orcin-57.vercel.app)
+> 
 > **EcoSync OS** is a high-fidelity, production-grade autonomous Smart Campus and Smart City Command Center & Digital Twin. It bridges real-time renewable energy telemetry, dynamic predictive load balancing, gamified conservation incentives, automated AI incident failover, and voice command accessibility into a unified, editorial operating system.
 
 ---
